@@ -1,5 +1,8 @@
-# Attribute-aware Zero-Shot Detection (CLIP)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/priyasilent/zero-shot-detection-clip-attributes)
+![GitHub last commit](https://img.shields.io/github/last-commit/priyasilent/zero-shot-detection-clip-attributes)
 
+# Attribute-aware Zero-Shot Detection (CLIP)
 This repository contains code and experiments for attribute-aware zero-shot object detection using CLIP embeddings and knowledge-driven attribute prompts.
 
 ## Datasets
@@ -17,4 +20,4 @@ Download/attach from Kaggle:
 
 This work implements attribute-aware zero-shot object detection using CLIP. The model leverages language-driven attribute prompts to detect unseen object classes without additional training.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
