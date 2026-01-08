@@ -1,0 +1,1 @@
+# zero-shot-detection-clip-attributes
