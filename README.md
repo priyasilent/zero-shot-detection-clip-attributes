@@ -20,4 +20,9 @@ Download/attach from Kaggle:
 
 This work implements attribute-aware zero-shot object detection using CLIP. The model leverages language-driven attribute prompts to detect unseen object classes without additional training.
 
+## Notes
+This repository accompanies a master’s thesis on attribute-aware zero-shot object detection.
+It is provided for transparency and reproducibility of the experimental pipeline.
+
+
 
