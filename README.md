@@ -16,3 +16,5 @@ Download/attach from Kaggle:
 4. Run all cells
 
 This work implements attribute-aware zero-shot object detection using CLIP. The model leverages language-driven attribute prompts to detect unseen object classes without additional training.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
